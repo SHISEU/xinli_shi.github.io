@@ -11,9 +11,9 @@ title                    : "Xinli Shi / HomePage"
 title_separator          : "-"
 name                     : &name "Xinli Shi"
 description              : &description " 东南大学副教授 "
-url                      : https://fffandrew.github.io/XinliShi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://shiseu.github.io/xinli_shi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "FFFandrew/XinliShi.github.io"
+repository               : "shiseu/xinli_shi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
