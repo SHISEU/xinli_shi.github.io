@@ -23,7 +23,6 @@ author_profile: true
   
 * T. Zhu, __X. Shi*__, X. Xu, and J. Cao, “An accelerated end-to-end method for solving routing problems,” Neural Networks, 164: 535-545, 2023.
 
-
 * Y. Zhou, __X. Shi*__，L. Guo, G. Wen, and J. Cao, “A proximal ADMM-based distributed optimal energy management approach for smart grid with stochastic wind power,” IEEE Transactions on Circuits and Systems I: Regular Papers, doi：10.1109/TCSI.2023.3332109, 2023. 
 
 * X. Xu , J. Cao*, __X. Shi*__, S. Gorbachev “Cumulative capacitated colored traveling salesman problem,” IEEE Transactions on Cybernetics, DOI: 10.1109/TCYB.2023.3337248, 2023. 
@@ -43,7 +42,7 @@ author_profile: true
 
 * L. Guo, __X. Shi*__, J. Cao*, and Z. Wang, “Exponential convergence of primal–dual dynamics under general conditions and its application to distributed optimization,”  IEEE Transactions on Neural Networks and Learning Systems, doi: 10.1109/TNNLS.2022.3208086.
 
-* L. Guo, __X. Shi__, and J. Cao, “Exponential convergence of primal-dual dynamical system for linear constrained optimization,” IEEE/CAA Journal of Automatica Sinica, vol. 9, no. 4, pp. 745-748, 2022. (SCI, JCR-Q1)
+* L. Guo, __X. Shi__, and J. Cao, “Exponential convergence of primal-dual dynamical system for linear constrained optimization,” IEEE/CAA Journal of Automatica Sinica, vol. 9, no. 4, pp. 745-748, 2022.
 
 * L. Cheng, F. Tang, __X. Shi__, X. Chen, and J. Qiu, “Finite-time and fixed-time synchronization of delayed memristive neural networks via adaptive aperiodically intermittent adjustment strategy,” IEEE Transactions on Neural Networks and Learning Systems, 2022, doi: 10.1109/TNNLS.2022.3151478.
 
