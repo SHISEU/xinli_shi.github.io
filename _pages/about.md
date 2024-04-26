@@ -10,7 +10,7 @@ redirect_from:
 
 时欣利，东南大学网络空间安全学院副教授，博士生导师，先后在东南大学计算机软件学院、数学学院和自动化学院获的学士、硕士和博士学位。目前为IEEE Senior Member，中国自动化学会高级会员，曾入选江苏省“双创博士”、江苏省科协青年科技人才托举工程（人工智能学会）、东南大学首届“小米青年学者”， 获得东南大学青年教师授课竞赛二等奖，博士论文荣获江苏省优秀博士学位论文。主要从事分布式优化和学习等方向的研究工作，发表学术论文40余篇，主持或参与省级、国家级项目10余项。
 
-个人主页：[https://cyber.seu.edu.cn/sxl_29632/list.htm](https://cyber.seu.edu.cn/sxl_29632/list.htm)
+# 个人主页：[https://cyber.seu.edu.cn/sxl_29632/list.htm](https://cyber.seu.edu.cn/sxl_29632/list.htm)
 
 邮箱：xinli_shi@seu.edu.cn
 
