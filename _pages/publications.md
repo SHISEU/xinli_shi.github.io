@@ -6,7 +6,7 @@ author_profile: true
 ---
 2024
 =====
-* L. Guo, __X. Shi__,  J. Cao and Z. Wang, “Exponential convergence of primal–dual dynamics under general conditions and its application to distributed optimization,”  IEEE Transactions on Neural Networks and Learning Systems, vol. 35, no. 4, pp. 5551-5565, 2024.
+* L. Guo, __X. Shi*__,  J. Cao* and Z. Wang, “Exponential convergence of primal–dual dynamics under general conditions and its application to distributed optimization,”  IEEE Transactions on Neural Networks and Learning Systems, vol. 35, no. 4, pp. 5551-5565, 2024.
 
 * H. Liu, J. Cao*, W. Huang, __X. Shi__, X. Zhou, and Z. Li, “A multidimensional framework for asphalt pavement evaluation based on multilayer network representation learning: A case study in RIOHTrack,” Expert Systems with Applications, 237, 121370, 2024.
   
