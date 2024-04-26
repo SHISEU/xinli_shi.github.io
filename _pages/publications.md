@@ -13,7 +13,7 @@ author_profile: true
 =====
 * __X. Shi__, G. Wen, J. Cao, and X. Yu, “Finite-time distributed average tracking for multi-agent optimization with bounded inputs,” IEEE Transactions on Automatic Control, vol. 68, no. 8, pp. 4948-4955, 2023.  
 
-* __X. Shi__, X. Xu, J. Cao, and X. Yu, “Finite-Time convergent primal-dual gradient dynamics with applications to distributed optimization,” IEEE Transactions on Cybernetics, vol. 53, no. 5, pp. 3240-3252, May 2023
+* __X. Shi__, X. Xu, J. Cao, and X. Yu, “Finite-time convergent primal-dual gradient dynamics with applications to distributed optimization,” IEEE Transactions on Cybernetics, vol. 53, no. 5, pp. 3240-3252, May 2023
 
 * __X. Shi__, G. Wen and X. Yu, “Finite-time convergent algorithms for time-varying distributed optimization,” IEEE Control Systems Letters, vol. 7, pp. 3223-3228, 2023.
 
@@ -24,7 +24,7 @@ author_profile: true
 * T. Zhu, __X. Shi*__, X. Xu, and J. Cao, “An accelerated end-to-end method for solving routing problems,” Neural Networks, 164: 535-545, 2023.
 
 
-* Y. Zhou, __X. Shi*__，L. Guo, G. Wen, and J. Cao, “a proximal ADMM-based distributed optimal energy management approach for smart grid with stochastic wind power,” IEEE Transactions on Circuits and Systems I: Regular Papers, doi：10.1109/TCSI.2023.3332109, 2023. 
+* Y. Zhou, __X. Shi*__，L. Guo, G. Wen, and J. Cao, “A proximal ADMM-based distributed optimal energy management approach for smart grid with stochastic wind power,” IEEE Transactions on Circuits and Systems I: Regular Papers, doi：10.1109/TCSI.2023.3332109, 2023. 
 
 * X. Xu , J. Cao*, __X. Shi*__, S. Gorbachev “Cumulative capacitated colored traveling salesman problem,” IEEE Transactions on Cybernetics, DOI: 10.1109/TCYB.2023.3337248, 2023. 
 
@@ -41,7 +41,7 @@ author_profile: true
 
 * W. Zhu, J. Cao*, __X. Shi*__, and L. Rutkowski, “Synchronization of finite-field networks with time delays,” IEEE Transactions on Network Science and Engineering, 9(2): 347-355, 2022.
 
-* L. Guo, __X. Shi*__ , J. Cao*, and Z. Wang, “Exponential convergence of primal–dual dynamics under general conditions and its application to distributed optimization,”  IEEE Transactions on Neural Networks and Learning Systems, doi: 10.1109/TNNLS.2022.3208086.
+* L. Guo, __X. Shi*__, J. Cao*, and Z. Wang, “Exponential convergence of primal–dual dynamics under general conditions and its application to distributed optimization,”  IEEE Transactions on Neural Networks and Learning Systems, doi: 10.1109/TNNLS.2022.3208086.
 
 * L. Guo, __X. Shi__, and J. Cao, “Exponential convergence of primal-dual dynamical system for linear constrained optimization,” IEEE/CAA Journal of Automatica Sinica, vol. 9, no. 4, pp. 745-748, 2022. (SCI, JCR-Q1)
 
@@ -63,11 +63,11 @@ author_profile: true
 
 * __X. Shi__, X. Yu, J. Cao, and G. Wen, “Continuous distributed algorithms for solving linear equations in finite time,” Automatica, vol. 113, 2020.
 
-* __X. Shi__, J. Cao, X. Yu, and G. Wen, “Finite-time stability for network systems with discontinuous dynamics over signed digraphs,” IEEE Transactions on Automatic Control，vol.65, no. 11, pp: 4874 – 4881,2020. 
+* __X. Shi__, J. Cao, X. Yu, and G. Wen, “Finite-time stability for network systems with discontinuous dynamics over signed digraphs,” IEEE Transactions on Automatic Control, vol. 65, no. 11, pp: 4874 – 4881,2020. 
 
 * __X. Shi__, J. Cao, G. Wen, and X. Yu, “Finite-Time stability for network systems with nonlinear protocols over signed digraphs,” IEEE Transactions on Network Science and Engineering, vol. 7, no. 3, pp: 1557-1569, 2020. 
 
-* __X. Shi__, J. Cao, G. Wen, M. Perc, “Finite-Time consensus of opinion dynamics and its applications to distributed optimization over digraph,” IEEE Transactions on Cybernetics, vol. 49, no. 10, pp: 3767 - 3779, 2019.
+* __X. Shi__, J. Cao, G. Wen, M. Perc, “Finite-time consensus of opinion dynamics and its applications to distributed optimization over digraph,” IEEE Transactions on Cybernetics, vol. 49, no. 10, pp: 3767 - 3779, 2019.
 
 * __X. Shi__, G. Wen, J. Cao, and X. Yu, “Model predictive power dispatch and control with price-elastic load in Energy Internet,” IEEE Transactions on Industrial Informatics, vol.15, no.3, pp: 1775-1787, 2019. 
 
