@@ -6,7 +6,11 @@ author_profile: true
 ---
 2024
 =====
-...
+* H. Liu, J. Cao*, W. Huang, __X. Shi__, X. Zhou, and Z. Li, “A multidimensional framework for asphalt pavement evaluation based on multilayer network representation learning: A case study in RIOHTrack,” Expert Systems with Applications, 237, 121370, 2024.
+  
+* L. Guo, I. Korovin, S. Gorbachev, __X. Shi__, N. Gorbacheva, and J. Cao*, “Neurodynamic approaches for multi-agent distributed optimization,” Neural Networks, 169: 673-684, 2024.
+  
+* S. Chen, J. Cao*, Y. Wan, __X. Shi__, and W. Huang, “Enhancing rutting depth prediction in asphalt pavements: A synergistic approach of extreme gradient boosting and snake optimization,” Construction and Building Materials, vol. 421, 135726, 2024.
 
 
 2023
