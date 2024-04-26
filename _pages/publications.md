@@ -6,6 +6,8 @@ author_profile: true
 ---
 2024
 =====
+* L. Guo, __X. Shi*__, J. Cao*, and Z. Wang, “Exponential convergence of primal–dual dynamics under general conditions and its application to distributed optimization,”  IEEE Transactions on Neural Networks and Learning Systems, vol. 35, no. 4, pp. 5551-5565, 2024.
+
 * H. Liu, J. Cao*, W. Huang, __X. Shi__, X. Zhou, and Z. Li, “A multidimensional framework for asphalt pavement evaluation based on multilayer network representation learning: A case study in RIOHTrack,” Expert Systems with Applications, 237, 121370, 2024.
   
 * L. Guo, I. Korovin, S. Gorbachev, __X. Shi__, N. Gorbacheva, and J. Cao*, “Neurodynamic approaches for multi-agent distributed optimization,” Neural Networks, 169: 673-684, 2024.
@@ -43,8 +45,6 @@ author_profile: true
 * __X. Shi__, X. Xu, and J. Cao, “A collective neurodynamic approach for solving distributed system optimum dynamic traffic assignment problems,” Neurocomputing, vol. 483, pp. 411-422, 2022. 
 
 * W. Zhu, J. Cao*, __X. Shi*__, and L. Rutkowski, “Synchronization of finite-field networks with time delays,” IEEE Transactions on Network Science and Engineering, 9(2): 347-355, 2022.
-
-* L. Guo, __X. Shi*__, J. Cao*, and Z. Wang, “Exponential convergence of primal–dual dynamics under general conditions and its application to distributed optimization,”  IEEE Transactions on Neural Networks and Learning Systems, doi: 10.1109/TNNLS.2022.3208086.
 
 * L. Guo, __X. Shi__, and J. Cao, “Exponential convergence of primal-dual dynamical system for linear constrained optimization,” IEEE/CAA Journal of Automatica Sinica, vol. 9, no. 4, pp. 745-748, 2022.
 
