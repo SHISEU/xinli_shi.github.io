@@ -4,6 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+2024
+=====
+...
+
+
 2023
 =====
 * __X. Shi__, G. Wen, J. Cao, and X. Yu, “Finite-time distributed average tracking for multi-agent optimization with bounded inputs,” IEEE Transactions on Automatic Control, vol. 68, no. 8, pp. 4948-4955, 2023.  
