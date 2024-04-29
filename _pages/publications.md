@@ -6,9 +6,9 @@ author_profile: true
 ---
 2024
 =====
-* L. Guo, __X. Shi__, S. Yang and J. Cao, "DISA: A dual inexact splitting algorithm for distributed convex composite optimization," IEEE Transactions on Automatic Control, 69(5): 2995-3010, 2024. (Full Paper)
-
 * L. Guo, __X. Shi__, J. Cao, and Z. Wang, “Exponential convergence of primal–dual dynamics under general conditions and its application to distributed optimization,”  IEEE Transactions on Neural Networks and Learning Systems, vol. 35, no. 4, pp. 5551-5565, 2024.
+
+* L. Guo, __X. Shi__, S. Yang and J. Cao, "DISA: A dual inexact splitting algorithm for distributed convex composite optimization," IEEE Transactions on Automatic Control, 69(5): 2995-3010, 2024. (Full Paper)
 
 * H. Liu, J. Cao*, W. Huang, __X. Shi__, X. Zhou, and Z. Li, “A multidimensional framework for asphalt pavement evaluation based on multilayer network representation learning: A case study in RIOHTrack,” Expert Systems with Applications, 237, 121370, 2024.
   
