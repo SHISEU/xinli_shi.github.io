@@ -6,6 +6,8 @@ author_profile: true
 ---
 2024
 =====
+* L. Guo, __X. Shi__, S. Yang and J. Cao, "DISA: A dual inexact splitting algorithm for distributed convex composite optimization," IEEE Transactions on Automatic Control, 69(5): 2995-3010, 2024.
+
 * L. Guo, __X. Shi__, J. Cao, and Z. Wang, “Exponential convergence of primal–dual dynamics under general conditions and its application to distributed optimization,”  IEEE Transactions on Neural Networks and Learning Systems, vol. 35, no. 4, pp. 5551-5565, 2024.
 
 * H. Liu, J. Cao*, W. Huang, __X. Shi__, X. Zhou, and Z. Li, “A multidimensional framework for asphalt pavement evaluation based on multilayer network representation learning: A case study in RIOHTrack,” Expert Systems with Applications, 237, 121370, 2024.
@@ -34,8 +36,6 @@ author_profile: true
 * X. Xu , J. Cao*, __X. Shi*__, S. Gorbachev “Cumulative capacitated colored traveling salesman problem,” IEEE Transactions on Cybernetics, DOI: 10.1109/TCYB.2023.3337248, 2023. 
 
 * L. Guo, __X. Shi__, J. Cao, and Z. Wang, “Decentralized inexact proximal gradient method with network-independent stepsizes for convex composite optimization,” IEEE Transactions on Signal Processing, 71: 786-801, 2023.
-
-* L. Guo, __X. Shi__, S. Yang and J. Cao, "DISA: A dual inexact splitting algorithm for distributed convex composite optimization," IEEE Transactions on Automatic Control, doi: 10.1109/TAC.2023.3301289, 2023.
 
 * Z. X. Li, I. Korovin, __X. L. Shi__, S. Gorbachev, N. Gorbacheva, W. Huang, and  J. D. Cao, “A data-driven rutting depth short-time prediction model with metaheuristic optimization for asphalt pavements based on RIOHTrack,” IEEE/CAA J. Autom. Sinica, vol. 10, no. 10, pp. 1918–1932, Oct. 2023. 
 
@@ -80,7 +80,7 @@ author_profile: true
 
 * __X. Shi__, J. Yu, J. Cao, T. Yong, “Decentralised frequency-based control of a population of heterogeneous ACs without power oscillations,” IET Generation, Transmission & Distribution, vol. 12, no. 10, pp: 2471-2479, 2018. 
 
-* G. Wen, G. Hu, J. Hu, __X. Shi*__, and G. Chen, “Frequency regulation of source-grid-load systems: A compound control strategy,” IEEE Transactions on Industrial Informatics, 12(1): 69-78, 2016.
+* G. Wen, G. Hu, J. Hu, __X. Shi__, and G. Chen, “Frequency regulation of source-grid-load systems: A compound control strategy,” IEEE Transactions on Industrial Informatics, 12(1): 69-78, 2016.
 
 
 <div style='display: none'>
