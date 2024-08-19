@@ -6,9 +6,13 @@ author_profile: true
 ---
 2024
 =====
+* __X. Shi*__, X. Xu, G. Wen, and, J. Cao, “Fixed-time gradient flows for solving constrained optimization: A unified approach,” IEEE/CAA Journal of Automatica Sinica, vol. 11, no. 8, pp. 1849-1864, 2024. 
+
 * T. Zhu, __X. Shi*__, X. Xu, J. Gui, and J. Cao, “HyperComm: Hypergraph-based communication in multi-agent reinforcement learning,” Neural Networks, 106432, 2024.
 
 * J. Yan, __X. Shi*__, L. Guo, Y. Wan, and G. Wen, “Distributed Proximal Alternating Direction Method of Multipliers for Constrained Composite Optimization Over Directed Networks,” IEEE Transactions on Signal and Information Processing over Networks, doi: 10.1109/TSIPN.2024.3407660, 2024.
+
+*  X. Xu, J. Cao*, __X. Shi*__, S. Gorbachev, “Cumulative capacitated colored traveling salesman problem,” IEEE Transactions on Cybernetics, vol. 54, no. 8, pp. 4553-4566, 2024 
 
 * L. Guo, __X. Shi__, S. Yang and J. Cao, "DISA: A dual inexact splitting algorithm for distributed convex composite optimization," IEEE Transactions on Automatic Control, 69(5): 2995-3010, 2024. (Full Paper)
 
@@ -29,15 +33,11 @@ author_profile: true
 
 * __X. Shi__, G. Wen and X. Yu, “Finite-time convergent algorithms for time-varying distributed optimization,” IEEE Control Systems Letters, vol. 7, pp. 3223-3228, 2023.
 
-* __X. Shi__, X. Xu, G. Wen, and, J. Cao, “Fixed-time gradient flows for solving constrained optimization: A unified approach,” IEEE/CAA Journal of Automatica Sinica, 10.1109/JAS.2023.124089, 2023. 
-
 * __X. Shi__, X. Yu, G. Wen, “Extended Zero-Gradient-Sum Approach for Constrained Distributed Optimization with Free Initialization,” arXiv preprint arXiv:2308.13743, 2023. 
   
 * T. Zhu, __X. Shi*__, X. Xu, and J. Cao, “An accelerated end-to-end method for solving routing problems,” Neural Networks, 164: 535-545, 2023.
 
 * Y. Zhou, __X. Shi*__，L. Guo, G. Wen, and J. Cao, “A proximal ADMM-based distributed optimal energy management approach for smart grid with stochastic wind power,” IEEE Transactions on Circuits and Systems I: Regular Papers, doi：10.1109/TCSI.2023.3332109, 2023. 
-
-* X. Xu , J. Cao*, __X. Shi*__, S. Gorbachev “Cumulative capacitated colored traveling salesman problem,” IEEE Transactions on Cybernetics, DOI: 10.1109/TCYB.2023.3337248, 2023. 
 
 * L. Guo, __X. Shi__, J. Cao, and Z. Wang, “Decentralized inexact proximal gradient method with network-independent stepsizes for convex composite optimization,” IEEE Transactions on Signal Processing, 71: 786-801, 2023.
 
