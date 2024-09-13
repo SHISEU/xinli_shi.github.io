@@ -7,7 +7,7 @@ author_profile: true
 2024
 =====
 
-* T. Zhu, __X. Shi*__, X. Xu*, and J. Cao, “Reinforcement Learning for Solving Colored Traveling Salesman Problems: An Entropy-Insensitive Attention Approach,” IEEE Transactions on Artificial Intelligence, accepted, DOI: 10.1109/TAI.2024.3461630, 2024. 
+* T. Zhu, X. Shi*, X. Xu*, and J. Cao, “Reinforcement Learning for Solving Colored Traveling Salesman Problems: An Entropy-Insensitive Attention Approach,” IEEE Transactions on Artificial Intelligence, accepted, DOI: 10.1109/TAI.2024.3461630, 2024. 
 
 * Y. Zhou, L. Guo, __X. Shi*__, and J. Cao, “A Distributed Proximal Alternating Direction Multiplier Method for Multiblock Nonsmooth Composite Optimization,” IEEE Transactions on Control of Network Systems, accepted, 2024. 
 
