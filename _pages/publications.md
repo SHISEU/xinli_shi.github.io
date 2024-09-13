@@ -6,6 +6,10 @@ author_profile: true
 ---
 2024
 =====
+* Y. Zhou, L. Guo, __X. Shi*__, and J. Cao, “A Distributed Proximal Alternating Direction Multiplier Method for Multiblock Nonsmooth Composite Optimization,” IEEE Transactions on Control of Network Systems, accepted 2024. 
+
+* T. Zhu, __X. Shi*__, X. Xu*, and J. Cao, “Reinforcement Learning for Solving Colored Traveling Salesman Problems: An Entropy-Insensitive Attention Approach,” IEEE Transactions on Artificial Intelligence, accepted, DOI: 10.1109/TAI.2024.3461630, 2024. 
+
 * __X. Shi*__, X. Xu, G. Wen, and, J. Cao, “Fixed-time gradient flows for solving constrained optimization: A unified approach,” IEEE/CAA Journal of Automatica Sinica, vol. 11, no. 8, pp. 1849-1864, 2024. 
 
 * T. Zhu, __X. Shi*__, X. Xu, J. Gui, and J. Cao, “HyperComm: Hypergraph-based communication in multi-agent reinforcement learning,” Neural Networks, 106432, 2024.
@@ -22,8 +26,6 @@ author_profile: true
   
 * L. Guo, I. Korovin, S. Gorbachev, __X. Shi__, N. Gorbacheva, and J. Cao*, “Neurodynamic approaches for multi-agent distributed optimization,” Neural Networks, 169: 673-684, 2024.
   
-* S. Chen, J. Cao*, Y. Wan, __X. Shi__, and W. Huang, “Enhancing rutting depth prediction in asphalt pavements: A synergistic approach of extreme gradient boosting and snake optimization,” Construction and Building Materials, vol. 421, 135726, 2024.
-
 
 2023
 =====
