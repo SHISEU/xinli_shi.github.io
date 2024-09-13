@@ -7,7 +7,7 @@ author_profile: true
 2024
 =====
 
-* T. Zhu, __X. Shi*__, X. Xu*, and J. Cao, “Reinforcement Learning for Solving Colored Traveling Salesman Problems: An Entropy-Insensitive Attention Approach,” IEEE Transactions on Artificial Intelligence, accepted, DOI: 10.1109/TAI.2024.3461630, 2024. 
+* T. Zhu, X. Shi*, X. Xu*, and J. Cao, “Reinforcement Learning for Solving Colored Traveling Salesman Problems: An Entropy-Insensitive Attention Approach,” IEEE Transactions on Artificial Intelligence, accepted, DOI: 10.1109/TAI.2024.3461630, 2024. 
 
 * Y. Zhou, L. Guo, __X. Shi*__, and J. Cao, “A Distributed Proximal Alternating Direction Multiplier Method for Multiblock Nonsmooth Composite Optimization,” IEEE Transactions on Control of Network Systems, accepted, 2024. 
 
@@ -22,7 +22,7 @@ author_profile: true
 
 * L. Guo, __X. Shi__, S. Yang and J. Cao, "DISA: A dual inexact splitting algorithm for distributed convex composite optimization," IEEE Transactions on Automatic Control, 69(5): 2995-3010, 2024. (Full Paper)
 
-* L. Guo, __X. Shi*__, J. Cao*, and Z. Wang, “Exponential convergence of primal–dual dynamics under general conditions and its application to distributed optimization,”  IEEE Transactions on Neural Networks and Learning Systems, vol. 35, no. 4, pp. 5551-5565, 2024.
+* L. Guo, X. Shi*, J. Cao*, and Z. Wang, “Exponential convergence of primal–dual dynamics under general conditions and its application to distributed optimization,”  IEEE Transactions on Neural Networks and Learning Systems, vol. 35, no. 4, pp. 5551-5565, 2024.
 
 * H. Liu, J. Cao*, W. Huang, __X. Shi__, X. Zhou, and Z. Li, “A multidimensional framework for asphalt pavement evaluation based on multilayer network representation learning: A case study in RIOHTrack,” Expert Systems with Applications, 237, 121370, 2024.
   
