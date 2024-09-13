@@ -8,7 +8,7 @@ author_profile: true
 =====
 * Y. Zhou, L. Guo, __X. Shi*__, and J. Cao, “A Distributed Proximal Alternating Direction Multiplier Method for Multiblock Nonsmooth Composite Optimization,” IEEE Transactions on Control of Network Systems, accepted 2024. 
 
-* T. Zhu, __X. Shi*__, X. Xu*, and J. Cao, “Reinforcement Learning for Solving Colored Traveling Salesman Problems: An Entropy-Insensitive Attention Approach,” IEEE Transactions on Artificial Intelligence, accepted, DOI: 10.1109/TAI.2024.3461630, 2024. 
+* T. Zhu, __X. Shi*__ X. Xu*, and J. Cao, “Reinforcement Learning for Solving Colored Traveling Salesman Problems: An Entropy-Insensitive Attention Approach,” IEEE Transactions on Artificial Intelligence, accepted, DOI: 10.1109/TAI.2024.3461630, 2024. 
 
 * __X. Shi*__, X. Xu, G. Wen, and, J. Cao, “Fixed-time gradient flows for solving constrained optimization: A unified approach,” IEEE/CAA Journal of Automatica Sinica, vol. 11, no. 8, pp. 1849-1864, 2024. 
 
