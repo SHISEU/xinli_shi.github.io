@@ -10,6 +10,14 @@ author_profile: true
 
 * 2024-10-04 课题组张帆、朱天宇等工作被期刊Computers & Industrial Engineering录用!
 
+* 2024-09-09 课题组朱天宇等工作被期刊IEEE Transactions on Artificial Intelligence录用!
+
+* 2024-08-17 课题组周远等工作被期刊IEEE Transactions on Control of Network Systems录用!
+
+* 2024-06-03 课题组朱天宇等工作被期刊Neural Networks录用!
+
+
+
 
 
 
