@@ -22,6 +22,9 @@ author_profile: true
 
 * 2023-11-08 课题组周远等工作被期刊IEEE Transactions on Circuits and Systems I: Regular Papers录用!
 
+* 2023-10-20 课题组时欣利等工作被期刊IEEE/CAA Journal of Automatica Sinica录用!
+
+* 2023-08-28 课题组时欣利等工作被期刊IEEE Control Systems Letters录用!
 
 
 
