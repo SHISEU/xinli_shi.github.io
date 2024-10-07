@@ -23,7 +23,7 @@ author_profile: true
 * 2024-05-21 课题组严晶等工作被期刊IEEE Transactions on Signal and Information Processing over Networks录用!
 
 
-2023
+~—2023
 =====
 
 * 2023-12-01 课题组时欣利获得江苏省科协青年科技人才托举工程（人工智能学会）项目资助！
@@ -40,12 +40,15 @@ author_profile: true
 
 * 2023-07-30 课题组郭璐瑶（联合指导）等工作被IEEE Transactions on Automatic Control录用(Full Paper)!
 
+* 2023-07-07 课题组时欣利晋升为中国自动化学会高级会员！
+
 * 2023-06-01 课题组时欣利获得“小米青年学者”！
 
 * 2023-05-02 课题组朱天宇等工作被期刊Neural Networks录用!
 
 * 2023-04-01 课题组时欣利获得东南大学第30届青年教师授课竞赛二等奖(9/219)！
 
+* 2022-11-23 课题组时欣利晋升为IEEE Senior member！
 
 
 
