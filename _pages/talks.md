@@ -18,7 +18,13 @@ author_profile: true
 
 * 2024-06-03 课题组朱天宇等工作被期刊Neural Networks录用!
 
+* 2024-06-01 课题组郭璐瑶（联合指导）获得江苏省省级“三好学生”!
+
 * 2024-05-21 课题组严晶等工作被期刊IEEE Transactions on Signal and Information Processing over Networks录用!
+
+* 2024-12-01 课题组时欣利获得江苏省科协青年科技人才托举工程（人工智能学会）项目资助！
+
+* 2024-12-01 课题组梁熹凤、徐文忠等分别获得2023年第五届全球校园人工智能算法精英大赛一等奖、二等奖！
 
 * 2023-11-08 课题组周远等工作被期刊IEEE Transactions on Circuits and Systems I: Regular Papers录用!
 
@@ -26,8 +32,11 @@ author_profile: true
 
 * 2023-08-28 课题组时欣利等工作被期刊IEEE Control Systems Letters录用!
 
+* 2023-08-01 课题组徐文忠等获“竞技世界杯”中国大学生计算机博弈大赛暨第十七届中国计算机博弈锦标赛爱恩斯坦棋比赛二等奖！
 
+* 2023-06-01 课题组时欣利获得“小米青年学者”！
 
+* 2023-04-01 课题组时欣利获得东南大学第30届青年教师授课竞赛二等奖！
 
 
 
