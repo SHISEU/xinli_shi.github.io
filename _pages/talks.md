@@ -38,6 +38,8 @@ author_profile: true
 
 * 2023-08-01 课题组徐文忠等获“竞技世界杯”中国大学生计算机博弈大赛暨第十七届中国计算机博弈锦标赛爱恩斯坦棋比赛二等奖！
 
+* 2023-07-30 课题组郭璐瑶（联合指导）等工作被IEEE Transactions on Automatic Control录用(Full Paper)!
+
 * 2023-06-01 课题组时欣利获得“小米青年学者”！
 
 * 2023-05-02 课题组朱天宇等工作被期刊Neural Networks录用!
