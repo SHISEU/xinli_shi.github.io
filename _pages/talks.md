@@ -10,6 +10,14 @@ author_profile: true
 
 * 2024-10-04 课题组张帆、朱天宇等工作被期刊Computers & Industrial Engineering录用!
 
+
+
+
+
+
+
+
+<div style='display: none'>
 <!-- 
 {% if site.talkmap_link == true %}
 
@@ -21,4 +29,5 @@ author_profile: true
   {% include archive-single-talk.html %}
 {% endfor %}
  -->
+ </div>
 
