@@ -6,7 +6,7 @@ author_profile: true
 ---
 2024
 =====
-* X. Xu,**X. Shi**\*, J. Cao*, and W. Huang, “Capacitated colored traveling salesman problem with time windows,” IEEE Transactions on Automation Science and Engineering, doi: 10.1109/TASE.2024.3476696, 2024.
+* X. Xu, **X. Shi**\*, J. Cao*, and W. Huang, “Capacitated colored traveling salesman problem with time windows,” IEEE Transactions on Automation Science and Engineering, doi: 10.1109/TASE.2024.3476696, 2024.
 
 * F. Zhang, T. Zhu, **X. Shi**\*, J. Cao, and M. Abdel-Aty, “Neural relational and dynamics inference for complex systems,” Computers & Industrial Engineering, 110628, 2024.
 
