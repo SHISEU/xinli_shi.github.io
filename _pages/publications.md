@@ -6,11 +6,13 @@ author_profile: true
 ---
 2024
 =====
+* X. Xu,**X. Shi**\*, J. Cao*, and W. Huang, “Capacitated colored traveling salesman problem with time windows,” IEEE Transactions on Automation Science and Engineering, doi: 10.1109/TASE.2024.3476696, 2024.
 
-* T. Zhu, **X. Shi**\*, X. Xu*, and J. Cao, “Reinforcement Learning for Solving Colored Traveling Salesman Problems: An Entropy-Insensitive Attention Approach,” IEEE Transactions on Artificial Intelligence, accepted, DOI: 10.1109/TAI.2024.3461630, 2024. 
+* F. Zhang, T. Zhu, **X. Shi**\*, J. Cao, and M. Abdel-Aty, “Neural relational and dynamics inference for complex systems,” Computers & Industrial Engineering, 110628, 2024.
 
-* Y. Zhou, L. Guo, __X. Shi*__, and J. Cao, “A Distributed Proximal Alternating Direction Multiplier Method for Multiblock Nonsmooth Composite Optimization,” IEEE Transactions on Control of Network Systems, accepted, 2024. 
+* T. Zhu, **X. Shi**\*, X. Xu*, and J. Cao, “Reinforcement Learning for Solving Colored Traveling Salesman Problems: An Entropy-Insensitive Attention Approach,” IEEE Transactions on Artificial Intelligence, DOI: 10.1109/TAI.2024.3461630, 2024. 
 
+* Y. Zhou, L. Guo, __X. Shi*__, and J. Cao, “A Distributed Proximal Alternating Direction Multiplier Method for Multiblock Nonsmooth Composite Optimization,” IEEE Transactions on Control of Network Systems, 10.1109/TCNS.2024.3462519, 2024. 
 
 * __X. Shi*__, X. Xu, G. Wen, and, J. Cao, “Fixed-time gradient flows for solving constrained optimization: A unified approach,” IEEE/CAA Journal of Automatica Sinica, vol. 11, no. 8, pp. 1849-1864, 2024. 
 
