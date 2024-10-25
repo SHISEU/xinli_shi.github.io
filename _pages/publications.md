@@ -47,6 +47,8 @@ author_profile: true
 
 * Z. X. Li, I. Korovin, __X. L. Shi__, S. Gorbachev, N. Gorbacheva, W. Huang, and  J. D. Cao, “A data-driven rutting depth short-time prediction model with metaheuristic optimization for asphalt pavements based on RIOHTrack,” IEEE/CAA J. Autom. Sinica, vol. 10, no. 10, pp. 1918–1932, Oct. 2023. 
 
+* L. Cheng, F. Tang, __X. Shi__, X. Chen, and J. Qiu, “Finite-time and fixed-time synchronization of delayed memristive neural networks via adaptive aperiodically intermittent adjustment strategy,” IEEE Transactions on Neural Networks and Learning Systems, vol. 34, no. 11, pp. 8516-8530, 2023.
+  
 
 # 2022
 
@@ -55,8 +57,6 @@ author_profile: true
 * W. Zhu, J. Cao*, __X. Shi*__, and L. Rutkowski, “Synchronization of finite-field networks with time delays,” IEEE Transactions on Network Science and Engineering, 9(2): 347-355, 2022.
 
 * L. Guo, __X. Shi__, and J. Cao, “Exponential convergence of primal-dual dynamical system for linear constrained optimization,” IEEE/CAA Journal of Automatica Sinica, vol. 9, no. 4, pp. 745-748, 2022.
-
-* L. Cheng, F. Tang, __X. Shi__, X. Chen, and J. Qiu, “Finite-time and fixed-time synchronization of delayed memristive neural networks via adaptive aperiodically intermittent adjustment strategy,” IEEE Transactions on Neural Networks and Learning Systems, 2022, doi: 10.1109/TNNLS.2022.3151478.
 
 * Z. Li, __X. Shi__, J. Cao, X. Wang, and W. Huang, “CPSO-XGBoost segmented regression model for asphalt pavement deflection basin area prediction,” Science China Technological Sciences, 65(7): 1470-1481, 2022.
 
