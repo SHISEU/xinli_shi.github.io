@@ -9,6 +9,8 @@ author_profile: true
 =====
 * 2024-11-14 课题组张杰越和温承达分别荣获研究生国家奖学金和东南大学至善奖学金（2万）！
 
+* 2024-11-04 课题组时欣利受邀赴江苏省应用数学中心（中国矿大）做“网络群体智能高效分布式学习及优化”报告！
+
 * 2024-10-04 课题组张帆、朱天宇等工作被期刊Computers & Industrial Engineering录用!
 
 * 2024-09-09 课题组朱天宇等工作被期刊IEEE Transactions on Artificial Intelligence录用!
@@ -16,6 +18,8 @@ author_profile: true
 * 2024-08-23 课题组获批国家自然科学基金面上项目资助（2025-2028）!
 
 * 2024-08-17 课题组周远等工作被期刊IEEE Transactions on Control of Network Systems录用!
+
+* 2024-06-07 课题组朱天宇获得东南大学博士研究生创新能力提升计划资助（全校200名）！
 
 * 2024-06-03 课题组朱天宇等工作被期刊Neural Networks录用!
 
