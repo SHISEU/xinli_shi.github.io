@@ -7,6 +7,7 @@ author_profile: true
 ---
 2024
 =====
+* 2024-11-14 课题组张杰越和温承达分别荣获研究生国家奖学金和东南大学至善奖学金（2万）！
 
 * 2024-10-04 课题组张帆、朱天宇等工作被期刊Computers & Industrial Engineering录用!
 
