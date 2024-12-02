@@ -7,6 +7,8 @@ author_profile: true
 ---
 2024
 =====
+* 2024-12-02 课题组孟晋（硕士）等工作被期刊 IEEE Transactions on Smart Grid 录用！
+
 * 2024-11-19 课题组合作指导论文被CCF-A类期刊 IEEE Transactions on Information Forensics & Security 录用！
 
 * 2024-11-14 课题组张杰越和温承达分别荣获研究生国家奖学金和东南大学至善奖学金（2万）！
@@ -27,7 +29,7 @@ author_profile: true
 
 * 2024-06-01 课题组郭璐瑶（联合指导）获得江苏省省级“三好学生”!
 
-* 2024-05-21 课题组严晶等工作被期刊IEEE Transactions on Signal and Information Processing over Networks录用!
+* 2024-05-21 课题组严晶（硕士）等工作被期刊IEEE Transactions on Signal and Information Processing over Networks录用!
 
 
 ~—2023
