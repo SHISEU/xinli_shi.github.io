@@ -7,6 +7,9 @@ author_profile: true
 ---
 2024
 =====
+
+* 2024-12-20 课题组周远获得东南大学博士研究生创新能力提升计划资助！
+
 * 2024-12-02 课题组孟晋（硕士）等工作被期刊 IEEE Transactions on Smart Grid 录用！
 
 * 2024-11-19 课题组合作指导论文被CCF-A类期刊 IEEE Transactions on Information Forensics & Security 录用！
