@@ -6,7 +6,9 @@ author_profile: true
 ---
 2024
 =====
-* L. Wang, L. Guo, S. Yang, and **X. Shi**, “Differentially private decentralized optimization with relay communication,” IEEE Transactions on Information Forensics & Security, accepted, 2024. 
+* J. Meng, J. Hu*, **X. Shi**\*, J. M. Guerrero, and J. Cao. Quantum Distributed Event-Triggered Frequency Control for AC Microgrids Under FDIAs. IEEE Transactions on Smart Grid, doi: 10.1109/TSG.2024.3513464, 2024.
+  
+* L. Wang, L. Guo, S. Yang, and **X. Shi**, “Differentially private decentralized optimization with relay communication,” IEEE Transactions on Information Forensics & Security, doi: 10.1109/TIFS.2024.3515803, 2024. 
 
 * X. Xu, **X. Shi**\*, J. Cao*, and W. Huang, “Capacitated colored traveling salesman problem with time windows,” IEEE Transactions on Automation Science and Engineering, doi: 10.1109/TASE.2024.3476696, 2024.
 
