@@ -4,6 +4,15 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+2025
+=====
+* __X. Shi__, X. Yu, G. Wen, X. Xu, “Extended zero-gradient-sum approach for constrained distributed optimization with free initialization,” IEEE Transactions on Systems, Man, and Cybernetics, doi: 10.1109/TSMC.2025.3547335, 2025.
+
+* __X. Shi__, Y. Wan, G. Wen and X. Yu, "Event-Triggered Zero-Gradient-Sum Distributed Constrained Optimization Over Jointly Connected Balanced Digraphs," IEEE Transactions on Network Science and Engineering, doi: 10.1109/TNSE. 2025.3559905, 2025.
+
+* L. Zhu, **X. Shi**\*, J. Gui, J. Cao, et al, “A linearly convergent quantized stochastic gradient tracking method with variance reduction,” IEEE Transactions on Network Science and Engineering, doi:10.1109/TNSE.2025.3540175, 2025. 
+
+
 2024
 =====
 * J. Meng, J. Hu*, **X. Shi**\*, J. M. Guerrero, and J. Cao. Quantum Distributed Event-Triggered Frequency Control for AC Microgrids Under FDIAs. IEEE Transactions on Smart Grid, doi: 10.1109/TSG.2024.3513464, 2024.
