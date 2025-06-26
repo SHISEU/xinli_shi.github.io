@@ -5,6 +5,15 @@ permalink: /talks/
 author_profile: true
 
 ---
+2025
+=====
+
+* 2025-06 课题组郭璐瑶（联合培养博士）和陈云（硕士）获得东南大学博士优秀毕业研究生！
+* 2025-06 课题组吴正湟等获得“第一届道路交通基础设施服役性能数据分析大赛”一等奖!
+* 2025-04 课题组工作被期刊IEEE Transactions on Network Science and Engineering录用!
+* 2025-03 课题组工作被期刊IEEE Transactions on Systems, Man, and Cybernetics 录用!
+* 2025-02 课题组朱龙康等工作被期刊IEEE Transactions on Network Science and Engineering录用!
+
 2024
 =====
 
