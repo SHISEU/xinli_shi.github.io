@@ -6,32 +6,36 @@ author_profile: true
 ---
 2025
 =====
-* __X. Shi__, X. Yu, G. Wen, X. Xu, “Extended zero-gradient-sum approach for constrained distributed optimization with free initialization,” IEEE Transactions on Systems, Man, and Cybernetics, doi: 10.1109/TSMC.2025.3547335, 2025.
 
-* __X. Shi__, Y. Wan, G. Wen and X. Yu, "Event-Triggered Zero-Gradient-Sum Distributed Constrained Optimization Over Jointly Connected Balanced Digraphs," IEEE Transactions on Network Science and Engineering, doi: 10.1109/TNSE. 2025.3559905, 2025.
+* W. Xu, Z. Li, Y. Cao, **X. Shi**\*, and J. Cao, “A Novel BS-UCT Algorithm With Deep Reinforcement Learning for the Game EWN,” IEEE Transactions on Games, doi: 10.1109/TG.2025.3592768, 2025. 
 
-* L. Zhu, **X. Shi**\*, J. Gui, J. Cao, et al, “A linearly convergent quantized stochastic gradient tracking method with variance reduction,” IEEE Transactions on Network Science and Engineering, doi:10.1109/TNSE.2025.3540175, 2025. 
+* __X. Shi__, X. Yu, G. Wen, X. Xu, “Extended zero-gradient-sum approach for constrained distributed optimization with free initialization,” IEEE Transactions on Systems, Man, and Cybernetics, vol. 55, no. 6, pp. 3824-3834, 2025.
+
+* __X. Shi__, Y. Wan, G. Wen and X. Yu, "Event-Triggered Zero-Gradient-Sum Distributed Constrained Optimization Over Jointly Connected Balanced Digraphs," IEEE Transactions on Network Science and Engineering, vol. 12, no. 4, pp. 3389-3399, 2025.
+
+* L. Zhu, **X. Shi**\*, J. Gui, J. Cao, et al, “A linearly convergent quantized stochastic gradient tracking method with variance reduction,” IEEE Transactions on Network Science and Engineering, vol. 12, no. 3, pp. 1849-1858, 2025. 
+
+* J. Meng, J. Hu*, **X. Shi**\*, J. M. Guerrero, and J. Cao. Quantum Distributed Event-Triggered Frequency Control for AC Microgrids Under FDIAs. IEEE Transactions on Smart Grid, vol. 16, no. 2, pp. 903-915, 2025.
+
+* X. Xu, **X. Shi**\*, J. Cao*, and W. Huang, “Capacitated colored traveling salesman problem with time windows,” IEEE Transactions on Automation Science and Engineering, vol. 22, pp. 8057-8068, 2025.
+
+* Y. Zhou, L. Guo, __X. Shi*__, and J. Cao, “A Distributed Proximal Alternating Direction Multiplier Method for Multiblock Nonsmooth Composite Optimization,” IEEE Transactions on Control of Network Systems, vol. 12, no. 1, pp. 202-215, 2025.
+
+* L. Wang, L. Guo, S. Yang, and **X. Shi**, “Differentially private decentralized optimization with relay communication,” IEEE Transactions on Information Forensics & Security, vol. 20, pp. 724-736, 2025.
 
 
 2024
 =====
-* J. Meng, J. Hu*, **X. Shi**\*, J. M. Guerrero, and J. Cao. Quantum Distributed Event-Triggered Frequency Control for AC Microgrids Under FDIAs. IEEE Transactions on Smart Grid, doi: 10.1109/TSG.2024.3513464, 2024.
-  
-* L. Wang, L. Guo, S. Yang, and **X. Shi**, “Differentially private decentralized optimization with relay communication,” IEEE Transactions on Information Forensics & Security, doi: 10.1109/TIFS.2024.3515803, 2024. 
-
-* X. Xu, **X. Shi**\*, J. Cao*, and W. Huang, “Capacitated colored traveling salesman problem with time windows,” IEEE Transactions on Automation Science and Engineering, doi: 10.1109/TASE.2024.3476696, 2024.
 
 * F. Zhang, T. Zhu, **X. Shi**\*, J. Cao, and M. Abdel-Aty, “Neural relational and dynamics inference for complex systems,” Computers & Industrial Engineering, 110628, 2024.
 
-* T. Zhu, **X. Shi**\*, X. Xu*, and J. Cao, “Reinforcement Learning for Solving Colored Traveling Salesman Problems: An Entropy-Insensitive Attention Approach,” IEEE Transactions on Artificial Intelligence, doi: 10.1109/TAI.2024.3461630, 2024. 
+* T. Zhu, **X. Shi**\*, X. Xu*, and J. Cao, “Reinforcement Learning for Solving Colored Traveling Salesman Problems: An Entropy-Insensitive Attention Approach,” IEEE Transactions on Artificial Intelligence, vol. 5, no. 12, pp. 6699-6708, 2024.
 
-* Y. Zhou, L. Guo, __X. Shi*__, and J. Cao, “A Distributed Proximal Alternating Direction Multiplier Method for Multiblock Nonsmooth Composite Optimization,” IEEE Transactions on Control of Network Systems, doi: 10.1109/TCNS.2024.3462519, 2024. 
-
-* __X. Shi*__, X. Xu, G. Wen, and, J. Cao, “Fixed-time gradient flows for solving constrained optimization: A unified approach,” IEEE/CAA Journal of Automatica Sinica, vol. 11, no. 8, pp. 1849-1864, 2024. 
+* __X. Shi*__, X. Xu, G. Wen, and J. Cao, “Fixed-time gradient flows for solving constrained optimization: A unified approach,” IEEE/CAA Journal of Automatica Sinica, vol. 11, no. 8, pp. 1849-1864, 2024. 
 
 * T. Zhu, __X. Shi*__, X. Xu, J. Gui, and J. Cao, “HyperComm: Hypergraph-based communication in multi-agent reinforcement learning,” Neural Networks, 106432, 2024.
 
-* J. Yan, __X. Shi*__, L. Guo, Y. Wan, and G. Wen, “Distributed Proximal Alternating Direction Method of Multipliers for Constrained Composite Optimization Over Directed Networks,” IEEE Transactions on Signal and Information Processing over Networks, doi: 10.1109/TSIPN.2024.3407660, 2024.
+* J. Yan, __X. Shi*__, L. Guo, Y. Wan, and G. Wen, “Distributed Proximal Alternating Direction Method of Multipliers for Constrained Composite Optimization Over Directed Networks,” IEEE Transactions on Signal and Information Processing over Networks, vol. 10, pp. 539-551, 2024.
 
 *  X. Xu, J. Cao*, __X. Shi*__, S. Gorbachev, “Cumulative capacitated colored traveling salesman problem,” IEEE Transactions on Cybernetics, vol. 54, no. 8, pp. 4553-4566, 2024 
 
