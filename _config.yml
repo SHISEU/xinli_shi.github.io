@@ -86,7 +86,7 @@ author:
   # location         : "Location"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=VbtNYhIAAAAJ&hl=zh-CN"
   email            :  xinli_shi@seu.edu.cn
   researchgate     : "https://www.researchgate.net/profile/Xinli-Shi"
   uri              : 
