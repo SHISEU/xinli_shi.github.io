@@ -8,7 +8,7 @@ author_profile: true
 2025
 =====
 
-* 2025-08 课题组储蓄彤等获2025年中国大学生计算机博弈大赛暨第十九届中国计算机博弈锦标赛“爱恩斯坦棋”一等奖（唯一）！
+* 2025-08 课题组储蓄彤等获2025年中国大学生计算机博弈大赛暨第十九届中国计算机博弈锦标赛“爱恩斯坦棋”一等奖！
          
 * 2025-08 课题组郭璐瑶（联合培养博士）等工作被期刊IEEE Transactions on Signal and Information Processing over Networks录用!
 
