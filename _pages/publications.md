@@ -33,7 +33,9 @@ author_profile: true
 
 * L. Guo, L. Wang, **X. Shi**, and J. Cao, "A Proximal Gradient Method With Probabilistic Multi-Gossip Communications for Decentralized Composite Optimization," IEEE Transactions on Signal and Information Processing over Networks, vol. 11, pp. 1044-1057, 2025.
 
-* C. Wen, X. Xu, **X. Shi**, J. Cao and L. Hua, “MGLAN: A Mamba-like Gated Linear Attention with Normalization for Solving CTSP,” IEEE Transactions on Artificial Intelligence, doi: 10.1109/TAI.2025.3630620, 2025. 
+* C. Wen, X. Xu, **X. Shi**\*, J. Cao and L. Hua, “MGLAN: A Mamba-like Gated Linear Attention with Normalization for Solving CTSP,” IEEE Transactions on Artificial Intelligence, doi: 10.1109/TAI.2025.3630620, 2025.
+
+* Y. Wang, J. Gui, **X. Shi**, L. Gui, Y. Y. Tang and J. T. -Y. Kwok, "ColorVein: Colorful Cancelable Vein Biometrics," IEEE Transactions on Information Forensics and Security, vol. 20, pp. 4943-4955, 2025.
 
 
 2024
@@ -50,6 +52,8 @@ author_profile: true
 * L. Guo, __X. Shi__, S. Yang and J. Cao, "DISA: A dual inexact splitting algorithm for distributed convex composite optimization," IEEE Transactions on Automatic Control, 69(5): 2995-3010, 2024. (Full Paper)
 
 * L. Guo, **X. Shi**\*, J. Cao*, and Z. Wang, “Exponential convergence of primal–dual dynamics under general conditions and its application to distributed optimization,”  IEEE Transactions on Neural Networks and Learning Systems, vol. 35, no. 4, pp. 5551-5565, 2024.
+
+* Y. Zhou, __X. Shi*__，L. Guo, G. Wen, and J. Cao, “A proximal ADMM-based distributed optimal energy management approach for smart grid with stochastic wind power,” IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 71, no. 5, pp. 2157-2170, 2024.  
    
 
 2023
@@ -60,8 +64,6 @@ author_profile: true
 
 * __X. Shi__, G. Wen and X. Yu, “Finite-time convergent algorithms for time-varying distributed optimization,” IEEE Control Systems Letters, vol. 7, pp. 3223-3228, 2023.
   
-* Y. Zhou, __X. Shi*__，L. Guo, G. Wen, and J. Cao, “A proximal ADMM-based distributed optimal energy management approach for smart grid with stochastic wind power,” IEEE Transactions on Circuits and Systems I: Regular Papers, doi：10.1109/TCSI.2023.3332109, 2023. 
-
 * L. Guo, __X. Shi__, J. Cao, and Z. Wang, “Decentralized inexact proximal gradient method with network-independent stepsizes for convex composite optimization,” IEEE Transactions on Signal Processing, 71: 786-801, 2023.
 
 * Z. X. Li, I. Korovin, __X. L. Shi__, S. Gorbachev, N. Gorbacheva, W. Huang, and  J. D. Cao, “A data-driven rutting depth short-time prediction model with metaheuristic optimization for asphalt pavements based on RIOHTrack,”  IEEE/CAA Journal of Automatica Sinica, vol. 10, no. 10, pp. 1918–1932, Oct. 2023. 
