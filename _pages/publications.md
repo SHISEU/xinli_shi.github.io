@@ -4,18 +4,26 @@ title: "Selective Publications"
 permalink: /publications/
 author_profile: true
 ---
-2025
+2026
 =====
-
 * X. Wang, **X. Shi**\*, G. Wen and X. Yu, "EF21 with Momentum and Partial Participation for Non-Convex Federated Learning under Biased Compression," IEEE Transactions on Network Science and Engineering, doi: 10.1109/TNSE.2025.3648495. 
 
 * Y. Chen, **X. Shi**\*, Y. Wan, and J. Cao, "Dynamic PID-Based Event-Triggered Robust MPC for Cyber-Physical Systems Under DoS Attacks," in IEEE Transactions on Industrial Cyber-Physical Systems, doi: 10.1109/TICPS.2025.3643803.
 
 * Y. Zhou, J. Zhong, **X. Shi**\*, G. Wen and X. Yu, "FedCanon: Non-Convex Composite Federated Learning with Efficient Proximal Operation on Heterogeneous Data," IEEE Transactions on Signal Processing, doi: 10.1109/TSP.2025.3642025.
 
+* C. Wen, X. Xu, **X. Shi**\*, J. Cao and L. Hua, “MGLAN: A Mamba-like Gated Linear Attention with Normalization for Solving CTSP,” IEEE Transactions on Artificial Intelligence, doi: 10.1109/TAI.2025.3630620, 2025.
+
+* J. Gui, C. Jiang, M. Dong, K. Tong, **X. Shi**, Y. Tang, "Improving Fast Adversarial Training Paradigm: An Example Taxonomy Perspective," IEEE Transactions on Dependable and Secure Computing, doi: 10.1109/TDSC.2025.3648990. (CCF A)
+
+* C. Jiang, M. Dong, **X. Shi**, and J. Gui, Diversifying Counterattacks: Orthogonal Exploration for Robust CLIP Inference. Accepted by AAAI 2026, Oral presentation. (CCF A)
+
+2025
+=====
+
 * __X. Shi__, Y. Chen, X. Xu, and X. Yu, "Dual-Mode Dynamic Event-Triggered Control for Nonlinear Cyber-Physical Systems With Constraints and Disturbances," IEEE Transactions on Automation Science and Engineering, vol. 22, pp. 24458-24469, 2025.
 
-* W. Xu, Z. Li, Y. Cao, **X. Shi**\*, and J. Cao, “A Novel BS-UCT Algorithm With Deep Reinforcement Learning for the Game EWN,” IEEE Transactions on Games, doi: 10.1109/TG.2025.3592768, 2025. 
+* W. Xu, Z. Li, Y. Cao, **X. Shi**\*, and J. Cao, “A Novel BS-UCT Algorithm With Deep Reinforcement Learning for the Game EWN,” IEEE Transactions on Games, vol. 17, no. 4, pp. 1024-1034, 2025. 
 
 * __X. Shi__, X. Yu, G. Wen, and X. Xu, “Extended zero-gradient-sum approach for constrained distributed optimization with free initialization,” IEEE Transactions on Systems, Man, and Cybernetics, vol. 55, no. 6, pp. 3824-3834, 2025.
 
@@ -29,13 +37,13 @@ author_profile: true
 
 * Y. Zhou, L. Guo, __X. Shi*__, and J. Cao, “A Distributed Proximal Alternating Direction Multiplier Method for Multiblock Nonsmooth Composite Optimization,” IEEE Transactions on Control of Network Systems, vol. 12, no. 1, pp. 202-215, 2025.
 
-* L. Wang, L. Guo, S. Yang, and **X. Shi**, “Differentially private decentralized optimization with relay communication,” IEEE Transactions on Information Forensics & Security, vol. 20, pp. 724-736, 2025.
+* L. Wang, L. Guo, S. Yang, and **X. Shi**, “Differentially private decentralized optimization with relay communication,” IEEE Transactions on Information Forensics & Security, vol. 20, pp. 724-736, 2025. (CCF A)
 
 * L. Guo, L. Wang, **X. Shi**, and J. Cao, "A Proximal Gradient Method With Probabilistic Multi-Gossip Communications for Decentralized Composite Optimization," IEEE Transactions on Signal and Information Processing over Networks, vol. 11, pp. 1044-1057, 2025.
 
-* C. Wen, X. Xu, **X. Shi**\*, J. Cao and L. Hua, “MGLAN: A Mamba-like Gated Linear Attention with Normalization for Solving CTSP,” IEEE Transactions on Artificial Intelligence, doi: 10.1109/TAI.2025.3630620, 2025.
+* Y. Wang, J. Gui, **X. Shi**, L. Gui, Y. Y. Tang and J. T. -Y. Kwok, "ColorVein: Colorful Cancelable Vein Biometrics," IEEE Transactions on Information Forensics and Security, vol. 20, pp. 4943-4955, 2025. (CCF A)
 
-* Y. Wang, J. Gui, **X. Shi**, L. Gui, Y. Y. Tang and J. T. -Y. Kwok, "ColorVein: Colorful Cancelable Vein Biometrics," IEEE Transactions on Information Forensics and Security, vol. 20, pp. 4943-4955, 2025.
+* C. Jiang, J. Wang, M. Dong, J. Gui, **X. Shi**, et al, "Improving Fast Adversarial Training via Self-Knowledge Guidance," IEEE Transactions on Information Forensics and Security, vol. 20, pp. 3772-3787, 2025. (CCF A)
 
 
 2024
