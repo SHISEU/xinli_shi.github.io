@@ -85,6 +85,8 @@ author_profile: true
 
 * L. Guo, __X. Shi__, and J. Cao, “Exponential convergence of primal-dual dynamical system for linear constrained optimization,” IEEE/CAA Journal of Automatica Sinica, vol. 9, no. 4, pp. 745-748, 2022.
 
+* C. Han, T. Ma, L. Gu, J. Cao, __X. Shi__, W. Huang, Z. Tong, “Asphalt Pavement Health Prediction Based on Improved Transformer Network,” IEEE Transactions on Intelligent Transportation Systems, 24(4), 4482-4493, 2022.
+
 * Z. Li, __X. Shi__, J. Cao, X. Wang, and W. Huang, “CPSO-XGBoost segmented regression model for asphalt pavement deflection basin area prediction,” Science China Technological Sciences, 65(7): 1470-1481, 2022.
 
 * H. Liu, J. Cao, W. Huang, __X. Shi__, and X. Wang, ``Complex network approach for the evaluation of asphalt pavement design and construction: a longitudinal study,'' Science China Information Sciences, vol. 65, no. 7, pp: 1-15, 2022.
