@@ -29,9 +29,7 @@ Selective Publications
 
 * __X. Shi__, G. Wen, J. Cao, and X. Yu, “Finite-time distributed average tracking for multi-agent optimization with bounded inputs,” IEEE Transactions on Automatic Control, vol. 68, no. 8, pp. 4948-4955, 2023.
   
-* __X. Shi__, J. Cao, X. Yu, and G. Wen, “Finite-time stability for network systems with discontinuous dynamics over signed digraphs,” IEEE Transactions on Automatic Control, vol. 65, no. 11, pp: 4874 – 4881,2020. 
-
-* __X. Shi__, J. Cao, G. Wen, and X. Yu, “Finite-Time stability for network systems with nonlinear protocols over signed digraphs,” IEEE Transactions on Network Science and Engineering, vol. 7, no. 3, pp: 1557-1569, 2020. 
+* __X. Shi__, J. Cao, X. Yu, and G. Wen, “Finite-time stability for network systems with discontinuous dynamics over signed digraphs,” IEEE Transactions on Automatic Control, vol. 65, no. 11, pp: 4874 – 4881, 2020. 
 
 * __X. Shi__, J. Cao, G. Wen, M. Perc, “Finite-time consensus of opinion dynamics and its applications to distributed optimization over digraph,” IEEE Transactions on Cybernetics, vol. 49, no. 10, pp: 3767 - 3779, 2019.
 
@@ -44,6 +42,8 @@ Selective Publications
 * __X. Shi__, G. Wen and X. Yu, “Finite-time convergent algorithms for time-varying distributed optimization,” IEEE Control Systems Letters, vol. 7, pp. 3223-3228, 2023.
 
 * __X. Shi*__, X. Xu, G. Wen, and J. Cao, “Fixed-time gradient flows for solving constrained optimization: A unified approach,” IEEE/CAA Journal of Automatica Sinica, vol. 11, no. 8, pp. 1849-1864, 2024.
+
+* __X. Shi__, J. Cao, G. Wen, and X. Yu, “Finite-Time stability for network systems with nonlinear protocols over signed digraphs,” IEEE Transactions on Network Science and Engineering, vol. 7, no. 3, pp. 1557-1569, 2020. 
 
 * __X. Shi__, X. Yu, G. Wen, and X. Xu, “Extended zero-gradient-sum approach for constrained distributed optimization with free initialization,” IEEE Transactions on Systems, Man, and Cybernetics, vol. 55, no. 6, pp. 3824-3834, 2025.
 
