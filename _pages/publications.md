@@ -6,11 +6,15 @@ author_profile: true
 ---
 2026
 =====
+* L. Guo, **X. Shi**, W. Xu, and J. Cao*, "Local adapt-then-combine algorithms for distributed nonsmooth optimization: Achieving provable communication acceleration," Automatica, Accepted, 2026.
+
+* **X. Shi**, Q. Gao, S. Li, G. Wen* and J. Cao, "Learning-Based Model Predictive Control With High-Probability Safety Using Gaussian Mixture Models,” IEEE Transactions on Systems, Man, and Cybernetics: Systems, doi: 10.1109/TSMC.2026.3659146, 2026.
+
 * X. Wang, **X. Shi**\*, G. Wen and X. Yu, "EF21 with Momentum and Partial Participation for Non-Convex Federated Learning under Biased Compression," IEEE Transactions on Network Science and Engineering, doi: 10.1109/TNSE.2025.3648495. 
 
 * Y. Chen, **X. Shi**\*, Y. Wan, and J. Cao, "Dynamic PID-Based Event-Triggered Robust MPC for Cyber-Physical Systems Under DoS Attacks," in IEEE Transactions on Industrial Cyber-Physical Systems, doi: 10.1109/TICPS.2025.3643803.
 
-* Y. Zhou, J. Zhong, **X. Shi**\*, G. Wen and X. Yu, "FedCanon: Non-Convex Composite Federated Learning with Efficient Proximal Operation on Heterogeneous Data," IEEE Transactions on Signal Processing, doi: 10.1109/TSP.2025.3642025.
+* Y. Zhou, J. Zhong, **X. Shi**\*, G. Wen and X. Yu, "FedCanon: Non-Convex Composite Federated Learning with Efficient Proximal Operation on Heterogeneous Data," IEEE Transactions on Signal Processing, vol. 74, pp. 215-229, 2026.
 
 * C. Wen, X. Xu, **X. Shi**\*, J. Cao and L. Hua, “MGLAN: A Mamba-like Gated Linear Attention with Normalization for Solving CTSP,” IEEE Transactions on Artificial Intelligence, doi: 10.1109/TAI.2025.3630620, 2025.
 
