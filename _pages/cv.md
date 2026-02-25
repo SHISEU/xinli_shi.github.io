@@ -18,13 +18,13 @@ Education
 
 Work experience
 ======
-*Jiangsu National Center for Applied Mathematics, Southeast University | Associate Professor (PhD Supervisor), 2022.08-Now 
+* Jiangsu National Center for Applied Mathematics, Southeast University | Associate Professor (PhD Supervisor), 2022.08-Now 
 
-*Research Center for Complex Systems and Network Science, School of Mathematics, Southeast University | Associate Professor, 2020.06-2022.07
+* Research Center for Complex Systems and Network Science, School of Mathematics, Southeast University | Associate Professor, 2020.06-2022.07
 
-*Research Center for Complex Systems and Network Science, School of Mathematics, Southeast University | Lecturer, 2019.11-2020.06
+* Research Center for Complex Systems and Network Science, School of Mathematics, Southeast University | Lecturer, 2019.11-2020.06
 
-*School of Engineering, RMIT University | Research Assistant, 2019.06-2019.10
+* School of Engineering, RMIT University | Research Assistant, 2019.06-2019.10
   
 
 Selective Publications
