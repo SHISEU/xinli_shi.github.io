@@ -68,4 +68,4 @@ Selective Publications
   
 Service and leadership
 ======
-*2023-Now, IEEE Senior Member
+* 2023-Now, IEEE Senior Member
