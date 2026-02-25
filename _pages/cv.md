@@ -25,9 +25,9 @@ Work experience
 
 Selective Publications
 ======
-* __X. Shi__, X. Yu, J. Cao, and G. Wen, “Continuous distributed algorithms for solving linear equations in finite time,” Automatica, vol. 113, 2020.
+[1] __X. Shi__, X. Yu, J. Cao, and G. Wen, “Continuous distributed algorithms for solving linear equations in finite time,” Automatica, vol. 113, 2020.
 
-* __X. Shi__, G. Wen, J. Cao, and X. Yu, “Finite-time distributed average tracking for multi-agent optimization with bounded inputs,” IEEE Transactions on Automatic Control, vol. 68, no. 8, pp. 4948-4955, 2023.
+[2] __X. Shi__, G. Wen, J. Cao, and X. Yu, “Finite-time distributed average tracking for multi-agent optimization with bounded inputs,” IEEE Transactions on Automatic Control, vol. 68, no. 8, pp. 4948-4955, 2023.
   
 * __X. Shi__, J. Cao, X. Yu, and G. Wen, “Finite-time stability for network systems with discontinuous dynamics over signed digraphs,” IEEE Transactions on Automatic Control, vol. 65, no. 11, pp: 4874 – 4881,2020. 
 
