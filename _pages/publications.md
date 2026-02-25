@@ -93,21 +93,21 @@ author_profile: true
 
 * Z. Li, __X. Shi__, J. Cao, X. Wang, and W. Huang, “CPSO-XGBoost segmented regression model for asphalt pavement deflection basin area prediction,” Science China Technological Sciences, 65(7): 1470-1481, 2022.
 
-* H. Liu, J. Cao, W. Huang, __X. Shi__, and X. Wang, ``Complex network approach for the evaluation of asphalt pavement design and construction: a longitudinal study,'' Science China Information Sciences, vol. 65, no. 7, pp: 1-15, 2022.
+* H. Liu, J. Cao, W. Huang, __X. Shi__, and X. Wang, ``Complex network approach for the evaluation of asphalt pavement design and construction: a longitudinal study,'' Science China Information Sciences, vol. 65, no. 7, pp. 1-15, 2022.
 
 * W. Zhu, J. Cao*, __X. Shi*__, and S. Gorbachev, “On set stability of finite-field networks,” IEEE Transactions on Circuits and Systems II: Express Briefs, 68(10): 3311 - 3315, 2021.
 
 * __X. Shi__, X. Yu, J. Cao, and G. Wen, “Continuous distributed algorithms for solving linear equations in finite time,” Automatica, vol. 113, 2020.
 
-* __X. Shi__, J. Cao, X. Yu, and G. Wen, “Finite-time stability for network systems with discontinuous dynamics over signed digraphs,” IEEE Transactions on Automatic Control, vol. 65, no. 11, pp: 4874 – 4881,2020. 
+* __X. Shi__, J. Cao, X. Yu, and G. Wen, “Finite-time stability for network systems with discontinuous dynamics over signed digraphs,” IEEE Transactions on Automatic Control, vol. 65, no. 11, pp. 4874 – 4881,2020. 
 
-* __X. Shi__, J. Cao, G. Wen, and X. Yu, “Finite-Time stability for network systems with nonlinear protocols over signed digraphs,” IEEE Transactions on Network Science and Engineering, vol. 7, no. 3, pp: 1557-1569, 2020. 
+* __X. Shi__, J. Cao, G. Wen, and X. Yu, “Finite-Time stability for network systems with nonlinear protocols over signed digraphs,” IEEE Transactions on Network Science and Engineering, vol. 7, no. 3, pp. 1557-1569, 2020. 
 
-* __X. Shi__, J. Cao, G. Wen, M. Perc, “Finite-time consensus of opinion dynamics and its applications to distributed optimization over digraph,” IEEE Transactions on Cybernetics, vol. 49, no. 10, pp: 3767 - 3779, 2019.
+* __X. Shi__, J. Cao, G. Wen, M. Perc, “Finite-time consensus of opinion dynamics and its applications to distributed optimization over digraph,” IEEE Transactions on Cybernetics, vol. 49, no. 10, pp. 3767 - 3779, 2019.
 
-* __X. Shi__, G. Wen, J. Cao, and X. Yu, “Model predictive power dispatch and control with price-elastic load in Energy Internet,” IEEE Transactions on Industrial Informatics, vol.15, no.3, pp: 1775-1787, 2019. 
+* __X. Shi__, G. Wen, J. Cao, and X. Yu, “Model predictive power dispatch and control with price-elastic load in Energy Internet,” IEEE Transactions on Industrial Informatics, vol.15, no.3, pp. 1775-1787, 2019. 
 
-* __X. Shi__, J. Cao, W. Huang, “Distributed parametric consensus optimization with an application to model predictive consensus problem,” IEEE Transactions on Cybernetics, vol. 48, no. 7, pp: 2024 – 2035, 2018. 
+* __X. Shi__, J. Cao, W. Huang, “Distributed parametric consensus optimization with an application to model predictive consensus problem,” IEEE Transactions on Cybernetics, vol. 48, no. 7, pp. 2024 – 2035, 2018. 
 
 * G. Wen, G. Hu, J. Hu, __X. Shi__, and G. Chen, “Frequency regulation of source-grid-load systems: A compound control strategy,” IEEE Transactions on Industrial Informatics, 12(1): 69-78, 2016.
 
