@@ -29,13 +29,13 @@ Selective Publications
 
 * __X. Shi__, G. Wen, J. Cao, and X. Yu, “Finite-time distributed average tracking for multi-agent optimization with bounded inputs,” IEEE Transactions on Automatic Control, vol. 68, no. 8, pp. 4948-4955, 2023.
   
-* __X. Shi__, J. Cao, X. Yu, and G. Wen, “Finite-time stability for network systems with discontinuous dynamics over signed digraphs,” IEEE Transactions on Automatic Control, vol. 65, no. 11, pp: 4874 – 4881, 2020. 
+* __X. Shi__, J. Cao, X. Yu, and G. Wen, “Finite-time stability for network systems with discontinuous dynamics over signed digraphs,” IEEE Transactions on Automatic Control, vol. 65, no. 11, pp. 4874 – 4881, 2020. 
 
-* __X. Shi__, J. Cao, G. Wen, M. Perc, “Finite-time consensus of opinion dynamics and its applications to distributed optimization over digraph,” IEEE Transactions on Cybernetics, vol. 49, no. 10, pp: 3767 - 3779, 2019.
+* __X. Shi__, J. Cao, G. Wen, M. Perc, “Finite-time consensus of opinion dynamics and its applications to distributed optimization over digraph,” IEEE Transactions on Cybernetics, vol. 49, no. 10, pp. 3767 - 3779, 2019.
 
-* __X. Shi__, G. Wen, J. Cao, and X. Yu, “Model predictive power dispatch and control with price-elastic load in Energy Internet,” IEEE Transactions on Industrial Informatics, vol.15, no.3, pp: 1775-1787, 2019. 
+* __X. Shi__, G. Wen, J. Cao, and X. Yu, “Model predictive power dispatch and control with price-elastic load in Energy Internet,” IEEE Transactions on Industrial Informatics, vol.15, no.3, pp. 1775-1787, 2019. 
 
-* __X. Shi__, J. Cao, W. Huang, “Distributed parametric consensus optimization with an application to model predictive consensus problem,” IEEE Transactions on Cybernetics, vol. 48, no. 7, pp: 2024 – 2035, 2018.
+* __X. Shi__, J. Cao, W. Huang, “Distributed parametric consensus optimization with an application to model predictive consensus problem,” IEEE Transactions on Cybernetics, vol. 48, no. 7, pp. 2024 – 2035, 2018.
 
 * __X. Shi__, X. Xu, J. Cao, and X. Yu, “Finite-time convergent primal-dual gradient dynamics with applications to distributed optimization,” IEEE Transactions on Cybernetics, vol. 53, no. 5, pp. 3240-3252, 2023.
 
