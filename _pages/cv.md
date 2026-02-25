@@ -49,13 +49,12 @@ Selective Publications
 
 * __X. Shi__, Y. Wan, G. Wen, and X. Yu, "Event-Triggered Zero-Gradient-Sum Distributed Constrained Optimization Over Jointly Connected Balanced Digraphs," IEEE Transactions on Network Science and Engineering, vol. 12, no. 4, pp. 3389-3399, 2025.
 
-* **X. Shi**, Q. Gao, S. Li, G. Wen* and J. Cao, "Learning-Based Model Predictive Control With High-Probability Safety Using Gaussian Mixture Models,” IEEE Transactions on Systems, Man, and Cybernetics: Systems, doi: 10.1109/TSMC.2026.3659146, 2026.
 
 * __X. Shi__, X. Yu, G. Wen, and X. Xu, “Extended zero-gradient-sum approach for constrained distributed optimization with free initialization,” IEEE Transactions on Systems, Man, and Cybernetics, vol. 55, no. 6, pp. 3824-3834, 2025.
 
-* __X. Shi__, Y. Wan, G. Wen, and X. Yu, "Event-Triggered Zero-Gradient-Sum Distributed Constrained Optimization Over Jointly Connected Balanced Digraphs," IEEE Transactions on Network Science and Engineering, vol. 12, no. 4, pp. 3389-3399, 2025.
-
 * __X. Shi__, Y. Chen, X. Xu, and X. Yu, "Dual-Mode Dynamic Event-Triggered Control for Nonlinear Cyber-Physical Systems With Constraints and Disturbances," IEEE Transactions on Automation Science and Engineering, vol. 22, pp. 24458-24469, 2025.
+
+* __X. Shi__, Q. Gao, S. Li, G. Wen* and J. Cao, "Learning-Based Model Predictive Control With High-Probability Safety Using Gaussian Mixture Models,” IEEE Transactions on Systems, Man, and Cybernetics: Systems, doi: 10.1109/TSMC.2026.3659146, 2026.
 
 * Y. Zhou, J. Zhong, **X. Shi**\*, G. Wen and X. Yu, "FedCanon: Non-Convex Composite Federated Learning with Efficient Proximal Operation on Heterogeneous Data," IEEE Transactions on Signal Processing, vol. 74, pp. 215-229, 2026.
   
