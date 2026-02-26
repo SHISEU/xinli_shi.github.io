@@ -4,7 +4,7 @@ title: "Brief CV"
 permalink: /CV/
 author_profile: true
 ---
-
+  
 Education
 ======
 * 2016.03 - 2019.06, Ph.D in Control Science and Engineering, School of Automation, Southeast University
