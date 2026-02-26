@@ -66,3 +66,4 @@ Selective Publications
 Service and leadership
 ======
 * 2023-Now, IEEE Senior Member
+* 2025-Now, ARC DECRA Fellow
