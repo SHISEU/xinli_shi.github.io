@@ -4,6 +4,12 @@ title: "Brief CV"
 permalink: /cv/
 author_profile: true
 ---
+Research Interests
+======
+* Distributed Learning and Optimization
+* Multi-Agent Reinforcement Learning
+* MPC
+* Smart Grid
   
 Education
 ======
