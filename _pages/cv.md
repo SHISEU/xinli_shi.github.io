@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Brief CV"
-permalink: /CV/
+permalink: /cv/
 author_profile: true
 ---
   
