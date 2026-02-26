@@ -6,7 +6,7 @@ author_profile: true
 ---
 2026
 =====
-* L. Guo, **X. Shi**, W. Xu, and J. Cao*, "Local adapt-then-combine algorithms for distributed nonsmooth optimization: Achieving provable communication acceleration," Automatica, Accepted, 2026.
+* L. Guo, **X. Shi**, W. Xu, and J. Cao*, "Local adapt-then-combine algorithms for distributed nonsmooth optimization: Achieving provable communication acceleration," Automatica, Accepted, 2026.  
 
 * **X. Shi**, Q. Gao, S. Li, G. Wen* and J. Cao, "Learning-Based Model Predictive Control With High-Probability Safety Using Gaussian Mixture Models,” IEEE Transactions on Systems, Man, and Cybernetics: Systems, doi: 10.1109/TSMC.2026.3659146, 2026.
 
