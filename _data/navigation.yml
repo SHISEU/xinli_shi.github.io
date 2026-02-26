@@ -2,7 +2,9 @@
 main:
   - title: "Publications"
     url: /publications/
-
+    
+  - title: "CV"
+    url: /cv/
     
 
   #- title: "News"
@@ -17,8 +19,7 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-   - title: "CV"
-     url: /cv/
+
     
   # - title: "Guide"
   #   url: /markdown/
