@@ -12,7 +12,7 @@ author_profile: true
 
 * X. Wang, **X. Shi**\*, G. Wen and X. Yu, "EF21 with Momentum and Partial Participation for Non-Convex Federated Learning under Biased Compression," IEEE Transactions on Network Science and Engineering, doi: 10.1109/TNSE.2025.3648495. 
 
-* Y. Chen, **X. Shi**\*, Y. Wan, and J. Cao, "Dynamic PID-Based Event-Triggered Robust MPC for Cyber-Physical Systems Under DoS Attacks," in IEEE Transactions on Industrial Cyber-Physical Systems, doi: 10.1109/TICPS.2025.3643803.
+# * Y. Chen, **X. Shi**\*, Y. Wan, and J. Cao, "Dynamic PID-Based Event-Triggered Robust MPC for Cyber-Physical Systems Under DoS Attacks," IEEE Transactions on Industrial Cyber-Physical Systems, doi: 10.1109/TICPS.2025.3643803.
 
 * Y. Zhou, J. Zhong, **X. Shi**\*, G. Wen and X. Yu, "FedCanon: Non-Convex Composite Federated Learning with Efficient Proximal Operation on Heterogeneous Data," IEEE Transactions on Signal Processing, vol. 74, pp. 215-229, 2026.
 
