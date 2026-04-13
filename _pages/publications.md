@@ -8,6 +8,8 @@ author_profile: true
 =====
 * L. Guo, **X. Shi**, W. Xu, and J. Cao*, "Local adapt-then-combine algorithms for distributed nonsmooth optimization: Achieving provable communication acceleration," Automatica, vol. 188, p. 112965, 2026.
 
+* **X. Shi**\*, “Finite-time distributed Nash and generalized Nash equilibrium seeking via sign-based dynamics over time-varying networks,” Nonlinear Analysis: Hybrid Systems, vol. 61, p. 101714, 2026.
+
 * R. Zhang, X. Xu, **X. Shi**\*, J. Cao and J. Gui, "Deep reinforcement learning with adaptive enhanced attention for CTSPs," IEEE Transactions on Artificial Intelligence, doi: 10.1109/TAI.2026.3673681. 
 
 * **X. Shi**, Q. Gao, S. Li, G. Wen* and J. Cao, "Learning-Based Model Predictive Control With High-Probability Safety Using Gaussian Mixture Models,” IEEE Transactions on Systems, Man, and Cybernetics: Systems, doi: 10.1109/TSMC.2026.3659146, 2026.
