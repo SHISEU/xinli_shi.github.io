@@ -10,7 +10,7 @@ author_profile: true
 
 * **X. Shi**\*, “Finite-time distributed Nash and generalized Nash equilibrium seeking via sign-based dynamics over time-varying networks,” Nonlinear Analysis: Hybrid Systems, vol. 61, p. 101714, 2026.
 
-* R. Zhang, X. Xu, **X. Shi**\*, J. Cao and J. Gui, "Deep reinforcement learning with adaptive enhanced attention for CTSPs," IEEE Transactions on Artificial Intelligence, doi: 10.1109/TAI.2026.3673681. 
+* R. Zhang, X. Xu*, **X. Shi**\*, J. Cao and J. Gui, "Deep reinforcement learning with adaptive enhanced attention for CTSPs," IEEE Transactions on Artificial Intelligence, doi: 10.1109/TAI.2026.3673681. 
 
 * **X. Shi**, Q. Gao, S. Li, G. Wen* and J. Cao, "Learning-Based Model Predictive Control With High-Probability Safety Using Gaussian Mixture Models,” IEEE Transactions on Systems, Man, and Cybernetics: Systems, doi: 10.1109/TSMC.2026.3659146, 2026.
 
@@ -20,7 +20,7 @@ author_profile: true
 
 * Y. Zhou, J. Zhong, **X. Shi**\*, G. Wen and X. Yu, "FedCanon: Non-Convex Composite Federated Learning with Efficient Proximal Operation on Heterogeneous Data," IEEE Transactions on Signal Processing, vol. 74, pp. 215-229, 2026.
 
-* C. Wen, X. Xu, **X. Shi**\*, J. Cao and L. Hua, “MGLAN: A Mamba-like Gated Linear Attention with Normalization for Solving CTSP,” IEEE Transactions on Artificial Intelligence, doi: 10.1109/TAI.2025.3630620, 2025.
+* C. Wen, X. Xu*, **X. Shi**\*, J. Cao and L. Hua, “MGLAN: A Mamba-like Gated Linear Attention with Normalization for Solving CTSP,” IEEE Transactions on Artificial Intelligence, doi: 10.1109/TAI.2025.3630620, 2025.
 
 * Z. Wang, C. Jiang, J. Gui, **X. Shi** and Y. Y. Tang, "Revisiting the Adversarial Transferability: Towards a Perspective of Semantic Preservation," IEEE Transactions on Multimedia, doi: 10.1109/TMM.2026.3673547. (CCF A)
 
