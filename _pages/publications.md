@@ -9,6 +9,8 @@ author_profile: true
 
 * Y. Zhou, **X. Shi**\*, L. Guo, et al., "Perturbed Proximal Gradient ADMM for Nonconvex Composite Optimization," IEEE Transactions on Automatic Control, Accepted.
 
+* Y. Zhou, Y. Ou, and **X. Shi**\*, DREAM: A unified framework for drift-corrected federated multi-objective learning, ICML 2026, Accepted. (CCF A顶会)
+
 * L. Guo, **X. Shi**, W. Xu, and J. Cao*, "Local adapt-then-combine algorithms for distributed nonsmooth optimization: Achieving provable communication acceleration," Automatica, vol. 188, p. 112965, 2026.
 
 * **X. Shi**\*, “Finite-time distributed Nash and generalized Nash equilibrium seeking via sign-based dynamics over time-varying networks,” Nonlinear Analysis: Hybrid Systems, vol. 61, p. 101714, 2026.
