@@ -7,7 +7,7 @@ author_profile: true
 2026
 =====
 
-*Y. Zhou, **X. Shi**\*, L. Guo, et al., "Perturbed Proximal Gradient ADMM for Nonconvex Composite Optimization," IEEE Transactions on Automatic Control, Accepted.
+* Y. Zhou, **X. Shi**\*, L. Guo, et al., "Perturbed Proximal Gradient ADMM for Nonconvex Composite Optimization," IEEE Transactions on Automatic Control, Accepted.
 
 * L. Guo, **X. Shi**, W. Xu, and J. Cao*, "Local adapt-then-combine algorithms for distributed nonsmooth optimization: Achieving provable communication acceleration," Automatica, vol. 188, p. 112965, 2026.
 
