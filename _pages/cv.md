@@ -59,6 +59,10 @@ Selective Publications
 
 * __X. Shi__, Q. Gao, S. Li, G. Wen* and J. Cao, "Learning-Based Model Predictive Control With High-Probability Safety Using Gaussian Mixture Models,” IEEE Transactions on Systems, Man, and Cybernetics: Systems, doi: 10.1109/TSMC.2026.3659146, 2026.
 
+* Y. Zhou, **X. Shi**\*, L. Guo, et al., "Perturbed Proximal Gradient ADMM for Nonconvex Composite Optimization," IEEE Transactions on Automatic Control, Accepted.
+
+* Y. Zhou, Y. Ou, and **X. Shi**\*, "DREAM: A unified framework for drift-corrected federated multi-objective learning," ICML 2026, Accepted.
+
 * Y. Zhou, J. Zhong, **X. Shi**\*, G. Wen and X. Yu, "FedCanon: Non-Convex Composite Federated Learning with Efficient Proximal Operation on Heterogeneous Data," IEEE Transactions on Signal Processing, vol. 74, pp. 215-229, 2026.
   
 * L. Guo, __X. Shi__, J. Cao, and Z. Wang, “Decentralized inexact proximal gradient method with network-independent stepsizes for convex composite optimization,” IEEE Transactions on Signal Processing, 71: 786-801, 2023.
