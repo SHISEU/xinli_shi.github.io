@@ -7,6 +7,8 @@ author_profile: true
 2026
 =====
 
+* Y. Zhou, **X. Shi**\*, et al., "Distributed Online Randomized Gradient-Free Optimization with Compressed Communication," IEEE Transactions on Cybernetics, DOI: 10.1109/TCYB.2026.3710570, Accepted.
+
 * Y. Zhou, **X. Shi**\*, L. Guo, et al., "Perturbed Proximal Gradient ADMM for Nonconvex Composite Optimization," IEEE Transactions on Automatic Control, Accepted.
 
 * Y. Zhou, Y. Ou, and **X. Shi**\*, DREAM: A unified framework for drift-corrected federated multi-objective learning, ICML 2026, Accepted. (CCF A顶会)
