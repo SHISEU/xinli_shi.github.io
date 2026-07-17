@@ -7,7 +7,7 @@ author_profile: true
 2026
 =====
 
-* **X. Shi**, et al., "A Hybrid Stochastic Gradient Tracking Method for Distributed Online Optimization Over Time-Varying Directed Networks", IEEE Transactions on Signal and Information Processing over Networks, DOI: 10.1109/TSIPN.2026.3714189, Accepted. 
+* **X. Shi**, et al., "A Hybrid Stochastic Gradient Tracking Method for Distributed Online Optimization Over Time-Varying Directed Networks," IEEE Transactions on Signal and Information Processing over Networks, DOI: 10.1109/TSIPN.2026.3714189, Accepted. 
 
 * Y. Zhou, **X. Shi**\*, et al., "Distributed Online Randomized Gradient-Free Optimization with Compressed Communication," IEEE Transactions on Cybernetics, DOI: 10.1109/TCYB.2026.3710570, Accepted.
 
