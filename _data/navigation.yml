@@ -7,8 +7,8 @@ main:
     url: /cv/
     
 
-  #- title: "News"
-  #  url: /talks/    
+  - title: "News"
+    url: /talks/    
 
   # - title: "Teaching"
   #   url: /teaching/    
