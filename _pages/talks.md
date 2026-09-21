@@ -5,6 +5,15 @@ permalink: /talks/
 author_profile: true
 
 ---
+2026
+=====
+* 2026-06 课题组朱龙康等工作被控制领域TOP期刊刊IEEE Transactions on Cybernetics录用！
+
+* 2026-05 课题组周远等工作被控制领域顶刊IEEE Transactions on Automatic Control录用！
+
+* 2026-05 课题组周远等工作被机器学习顶会ICML录用！
+
+
 2025
 =====
 
