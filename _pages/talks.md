@@ -16,9 +16,14 @@ author_profile: true
 
 * 2026-05 课题组周远等工作被机器学习顶会ICML录用！
 
+* 2026-02 课题组周工作被期刊IEEE Transactions on Systems, Man, and Cybernetics: Systems录用！
+
 
 2025
 =====
+* 2025-12 课题组周远等工作被期刊IEEE Transactions on Signal Processing录用！
+
+* 2025-11 课题组工作被期刊IEEE Transactions on Automation Science and Engineering录用！
 
 * 2025-08 课题组储蓄彤等获2025年中国大学生计算机博弈大赛暨第十九届中国计算机博弈锦标赛“爱恩斯坦棋”一等奖！
          
