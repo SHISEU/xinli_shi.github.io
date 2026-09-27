@@ -7,6 +7,9 @@ author_profile: true
 ---
 2026
 =====
+
+* 2026-07 课题组周远、朱龙康等工作被控制领域顶会CDC2026录用！
+
 * 2026-06 课题组朱龙康等工作被控制领域TOP期刊刊IEEE Transactions on Cybernetics录用！
 
 * 2026-05 课题组周远等工作被控制领域顶刊IEEE Transactions on Automatic Control录用！
